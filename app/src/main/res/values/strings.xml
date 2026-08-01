@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="selection_title">Currency converter</string>
+    <string name="selection_subtitle">Fast, simple and up to date</string>
+    <string name="selection_card_title">Set up your conversion</string>
+    <string name="selection_card_description">Choose a currency pair and enter the amount you want to convert.</string>
+    <string name="amount">Amount</string>
+    <string name="amount_in">Amount in %1$s</string>
+    <string name="amount_error">Enter an amount greater than zero</string>
+    <string name="from_currency">From</string>
+    <string name="to_currency">To</string>
+    <string name="continue_action">Continue</string>
+    <string name="conversion_title">Your conversion</string>
+    <string name="conversion_subtitle">Live rate for %1$s to %2$s</string>
+    <string name="converted_amount_label">Converted amount</string>
+    <string name="rate_pattern">1 %1$s = %2$s %3$s</string>
+    <string name="swap_currencies">Swap</string>
+    <string name="back_action">Back</string>
+    <string name="retry_action">Retry API request</string>
+    <string name="loading_rate">Loading the latest exchange rate…</string>
+    <string name="empty_result">—</string>
+    <string name="error_missing_api_key">Add EXCHANGE_RATE_API_KEY to local.properties</string>
+    <string name="error_invalid_api_key">The API key is invalid or inactive.</string>
+    <string name="error_quota_reached">The API request limit has been reached.</string>
+    <string name="error_loading_rate">Unable to load the exchange rate. Check your connection and try again.</string>
+    <string name="currency_eur">Euro</string>
+    <string name="currency_usd">US Dollar</string>
+    <string name="currency_gbp">British Pound</string>
+    <string name="currency_bgn">Bulgarian Lev</string>
+    <string name="currency_chf">Swiss Franc</string>
+    <string name="currency_jpy">Japanese Yen</string>
+    <string name="currency_cad">Canadian Dollar</string>
+    <string name="currency_aud">Australian Dollar</string>
+    <string name="currency_option">%1$s — %2$s</string>
+    <string name="amount_with_symbol">%1$s %2$s</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Валутен конвертор</string>
+    <string name="selection_title">Валутен конвертор</string>
+    <string name="selection_subtitle">Бързо, лесно и актуално</string>
+    <string name="selection_card_title">Настрой конвертирането</string>
+    <string name="selection_card_description">Избери валутна двойка и въведи сумата, която искаш да конвертираш.</string>
+    <string name="amount">Сума</string>
+    <string name="amount_in">Сума в %1$s</string>
+    <string name="amount_error">Въведи сума, по-голяма от нула</string>
+    <string name="from_currency">От</string>
+    <string name="to_currency">Към</string>
+    <string name="continue_action">Продължи</string>
+    <string name="conversion_title">Твоето конвертиране</string>
+    <string name="conversion_subtitle">Актуален курс от %1$s към %2$s</string>
+    <string name="converted_amount_label">Конвертирана сума</string>
+    <string name="rate_pattern">1 %1$s = %2$s %3$s</string>
+    <string name="swap_currencies">Размени</string>
+    <string name="back_action">Назад</string>
+    <string name="retry_action">Опитай заявката отново</string>
+    <string name="loading_rate">Зареждане на актуалния валутен курс…</string>
+    <string name="empty_result">—</string>
+    <string name="error_missing_api_key">Добави EXCHANGE_RATE_API_KEY в local.properties</string>
+    <string name="error_invalid_api_key">API ключът е невалиден или неактивен.</string>
+    <string name="error_quota_reached">Лимитът на API заявките е достигнат.</string>
+    <string name="error_loading_rate">Валутният курс не може да бъде зареден. Провери връзката и опитай отново.</string>
+    <string name="currency_eur">Евро</string>
+    <string name="currency_usd">Щатски долар</string>
+    <string name="currency_gbp">Британски паунд</string>
+    <string name="currency_bgn">Български лев</string>
+    <string name="currency_chf">Швейцарски франк</string>
+    <string name="currency_jpy">Японска йена</string>
+    <string name="currency_cad">Канадски долар</string>
+    <string name="currency_aud">Австралийски долар</string>
+    <string name="currency_option">%1$s — %2$s</string>
+    <string name="amount_with_symbol">%1$s %2$s</string>
+</resources>
